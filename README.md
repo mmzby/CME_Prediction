@@ -1,2 +1,2 @@
 # CME_Prediction
-CEM Prediction via CNN
+CME Prediction via CNN
